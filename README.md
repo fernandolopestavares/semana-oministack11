@@ -37,6 +37,6 @@ See how the Mobile App works and how to use in this page: [Mobile](https://githu
 
 <table>
   <tr>
-    <td align="center"><a href=">https://github.com/fernandolopestavares/"><br /><sub><b>Fernando Tavares</b></sub></a><br /><a href=">https://github.com/fernandolopestavares/semana-oministack11" title="Code"></a></td>
+    <td align="center"><a href=">https://github.com/fernandolopestavares/"><br /><b>Fernando Tavares</b></a></td>
   <tr>
 </table>
