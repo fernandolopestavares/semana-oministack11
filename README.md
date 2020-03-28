@@ -2,8 +2,7 @@
   <p align="center">
   <strong align="center">A Fullsatck Web-Mobile application to help ONGs to spread their incidents</strong>
 </p>
-  <img src="/frontend/public/Screen-Shot-first-page.png" float="center"/>
-</p>
+
 
 ## About
 
